@@ -19,3 +19,6 @@ Datasheet:https://cdn-learn.adafruit.com/downloads/pdf/adafruit-pn532-rfid-nfc.p
 
 Youtube:https://www.youtube.com/watch?v=2qf6gIqhWNA
 
+
+The code for find is you connect I2C correctly is in findi2c folder and the code for find type of the card is in readMifareture.
+The code that use to read card (Classic) in our project is Project_readMifareClassic.
